@@ -1,0 +1,32 @@
+{
+  "related":[
+    {
+         "rid":"01",
+          "rlogo":"https://s28.postimg.org/lhfakxbt9/garcia_s.jpg",
+          "rtitle":"Special Discount Sales",
+          "issuddate":"2017-02-1",
+          "startdate":"2017-02-20",
+          "enddate":"2017-03-10",
+           "rname":"Garcia's Famous Pizza"
+     },
+     {
+        "rid":"02",
+        "rlogo":"https://s28.postimg.org/lhfakxbt9/garcia_s.jpg",
+        "rtitle":"Monthly Discount Sales",
+        "issuddate":"2017-02-1",
+          "startdate":"2017-02-15",
+          "enddate":"2017-03-1",
+           "rname":"Garcia's Famous Pizza"
+        
+     },
+   {
+     "rid":"03",
+     "rlogo":"https://s28.postimg.org/lhfakxbt9/garcia_s.jpg",
+     "rtitle":"Monthly Discount Sales",
+      "issuddate":"2017-01-31",
+      "startdate":"2017-02-1",
+       "enddate":"2017-02-12",
+        "rname":"Garcia's Famous Pizza"
+   }
+   ]
+   }
